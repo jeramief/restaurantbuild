@@ -551,9 +551,6 @@ body.nav-active { overflow: hidden; }
 /* topbar
 /******************************************/
 .topbar { display: none; }
-/******************************************/
-/* topbar
-/******************************************/
 
 
 /******************************************/
@@ -850,7 +847,7 @@ body.nav-active { overflow: hidden; }
 
 .hero .slider-item.active .hero-text { animation-delay: 1.5s; }
 
-.hero .slider-item.active .btn { animation-delay: 2s; }
+/* .hero .slider-item.active .btn { animation-delay: 500ms; } */
 /******************************************/
 /* hero
 /******************************************/
