@@ -1126,7 +1126,6 @@ body.nav-active {
 }
 
 .special-dish-content .del {
-  text-decoration: none;
   color: var(--davys-grey);
 }
 
